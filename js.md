@@ -1,6 +1,6 @@
 # Introduction à JavaScript
 
-> Cours orienté pratique — vous connaissez déjà Python et les bases du web. Ce document met l'accent sur ce qui est **différent**, **piégeux**, ou **indispensable** pour travailler ensuite avec Vue.
+> Cours orienté pratique — vous connaissez déjà Python et les bases du web. Ce document met l'accent sur ce qui est **différent**, **piégeux**, ou 
 
 ---
 
